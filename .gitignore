@@ -1,3 +1,6 @@
 /RAW_recipes.csv
 /__pycache__
 /users_text_ingredients.csv
+/RAW_interactions.csv
+/filtered_recipes.csv
+/ids_to_exclude.py
